@@ -57,7 +57,6 @@
                                                                                                                       
                   </div>
                   <br />
-                  <br />
                   <div>
                     <table>
                       <tr>
@@ -94,6 +93,7 @@
                       </tr>
                     </table>
                   </div>
+                  <br />
                 </td>
               </tr>
               <tr>
