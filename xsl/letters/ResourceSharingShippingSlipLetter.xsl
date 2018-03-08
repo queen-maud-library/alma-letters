@@ -280,6 +280,8 @@
             </table>
           </div>
         </div>
+        <br />
+        <br />
         <xsl:call-template name="lastFooter" />
         <!-- footer.xsl -->
       </body>
